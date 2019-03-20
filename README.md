@@ -1,3 +1,3 @@
 # AlgorithmReview
 ## Sorting
-- Selection sort
+> - Selection sort
