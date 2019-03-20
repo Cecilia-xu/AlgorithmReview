@@ -1,2 +1,3 @@
 # AlgorithmReview
-- Sorting
+## Sorting
+- selection sort
