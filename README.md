@@ -1,4 +1,4 @@
 # Algorithm Review
--Basic sorting
--Advanced sorting
+- Basic sorting
+- Advanced sorting
 ---
