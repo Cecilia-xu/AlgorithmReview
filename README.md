@@ -2,7 +2,7 @@
 - Basic sorting
 - Advanced sorting
 ---
-| Left-Aligned  | Center Aligned  | Right Aligned |
+| No.  | Algorithm  | Link |
 | :------------ |:---------------:| -----:|
 | **Basic Sorting**|      |                                 |
 |  No.1  | Selection sort(specific tye of array) |[Selection sort](https://github.com/Cecilia-xu/AlgorithmReview/blob/master/sorting/SelectionSort.java)     | 
