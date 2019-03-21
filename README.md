@@ -2,6 +2,7 @@
 - Basic sorting
 - Advanced sorting
 ---
+## Table of content
 | No.  | Algorithm  | Link |
 | :------------: |:---------------:| :-----:|
 | **Basic Sorting**|      |                                 |
