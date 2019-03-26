@@ -5,7 +5,7 @@
 ## Table of content
 | No.  | Algorithm  | Link | Notes |
 | :------------: |:---------------:| :-----:|:-----:|
-| **Basic Sorting**|                                      
+| **Section 1: Basic Sorting**|                                      
 |  No.1  | Selection sort(specific tye of array) |[Selection sort](https://github.com/Cecilia-xu/AlgorithmReview/blob/master/sorting/SelectionSort.java)     | 
 | No.2  | Selection sort(generic tye of array) |[Selection sortI](https://github.com/Cecilia-xu/AlgorithmReview/blob/master/sorting/SelectionSort.java)     |
 | No.3  | Generate test examples randomly | |[About "Assert"](https://github.com/Cecilia-xu/AlgorithmReview/blob/master/sorting/About%20Assert.md)|
