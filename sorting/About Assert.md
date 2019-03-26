@@ -5,3 +5,14 @@
 1. assert 条件;
 2. assert 条件 : 表达式;<br>
 这两种形式都会对条件进行检测，如果结果为false，则抛出一个AssertionError。在第二种形式中，表达式的值将会被传入AssertionError的构造器中，并转换成一个消息字符串。
+## 举例说明
+1. 代码示例
+``` java
+public class AssertDemo {
+
+    public static void main(String[] args) {
+        int x = 23;
+        assert x < 0;
+    }
+}
+```
