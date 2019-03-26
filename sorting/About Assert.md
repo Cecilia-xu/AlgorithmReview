@@ -20,6 +20,7 @@ public class AssertDemo {
 2. 启用断言
 - eclipse下运行：在“Run Configurations”–>“Arguments”–>“VM Arguments”中添加-ea或-enableassertions
 - 在命令行中运行的话只需要java -ea AssertDemo 
-启用后会显示Assertion error <br />
+启用后会显示Assertion error  
+<br />
 3.  禁用断言
 同启用，参数改为-da和-disableassertions
