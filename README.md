@@ -1,7 +1,6 @@
 # Algorithm Review
 - Basic sorting
-- Advanced sorting
----
+- Searching
 ## Table of content
 | No.  | Algorithm  | Link | Notes |
 | :------------: |:---------------:| :-----:|:-----:|
@@ -14,3 +13,5 @@
 | No.6  | Insertion sort II| | | 
 | No.7  | Bubble sort | | | 
 | No.8  | Shell sort | | |
+| **Section 2: Searching**|
+| No.1  | Binary sort |[Binary Search]()|[Note]()|
