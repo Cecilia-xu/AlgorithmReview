@@ -14,4 +14,4 @@
 | No.7  | Bubble sort | | | 
 | No.8  | Shell sort | | |
 | **Section 2: Searching**|
-| No.1  | Binary sort |[Binary Search]()|[Note]()|
+| No.1  | Binary sort |[Binary Search]()|[Note](https://github.com/Cecilia-xu/AlgorithmReview/blob/master/Searching/binary%20search.md)|
