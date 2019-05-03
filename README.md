@@ -4,7 +4,7 @@
 ## Table of content
 | No.  | Algorithm  | Link | Notes |
 | :------------: |:---------------:| :-----:|:-----:|
-| **Section 1: Basic Sorting**|                                      
+| **Section 1: Elementary Sorting**|                                      
 |  No.1  | Selection sort(specific tye of array) |[Selection sort](https://github.com/Cecilia-xu/AlgorithmReview/blob/master/sorting/SelectionSort.java)     | 
 | No.2  | Selection sort(generic tye of array) |[Selection sortI](https://github.com/Cecilia-xu/AlgorithmReview/blob/master/sorting/SelectionSort.java)     |
 | No.3  | Generate test examples randomly | |[About "Assert"](https://github.com/Cecilia-xu/AlgorithmReview/blob/master/sorting/About%20Assert.md)|
@@ -14,4 +14,4 @@
 | No.7  | Bubble sort | | | 
 | No.8  | Shell sort | | |
 | **Section 2: Searching**|
-| No.1  | Binary sort |[Binary Search]()|[Note](https://github.com/Cecilia-xu/AlgorithmReview/blob/master/Searching/binary%20search.md)|
+| No.1  | Binary search |[Binary Search]()|[Note](https://github.com/Cecilia-xu/AlgorithmReview/blob/master/Searching/binary%20search.md)|
