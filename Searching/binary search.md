@@ -1,7 +1,7 @@
 # Intuition
-Binary search is a textbook algorithm based on the idea to compare the target value to the middle element of the array.
-If the target value is equal to the middle element - we're done.
-If the target value is smaller - continue to search on the left.
+Binary search is a textbook algorithm based on the idea to compare the target value to the middle element of the array.<br>
+If the target value is equal to the middle element - we're done.<br>
+If the target value is smaller - continue to search on the left.<br>
 If the target value is larger - continue to search on the right.
 # How to code correctly
 Things we can learn from binary search:
