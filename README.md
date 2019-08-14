@@ -1,6 +1,5 @@
 # Algorithm Review
-- Basic sorting
-- Searching
+
 ## Table of content
 | No.  | Algorithm  | Link | Notes |
 | :------------: |:---------------:| :-----:|:-----:|
