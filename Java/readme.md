@@ -14,9 +14,9 @@ e.g. Java - high level programming language -> machine code
 7. Initialization
 8. Overflow: Storing a value that is too large for a declared type of variable will cause an overflow error
 9. Primitive data type
-<img src="https://s2.ax1x.com/2019/09/29/u3P6pQ.png"></img>
+<img src = "https://s2.ax1x.com/2019/09/29/u3P6pQ.png" width = 80%></img>
 - Note: String is not a primitive data type, but a class(which has methods)
-<img src="https://s2.ax1x.com/2019/09/29/u3Ph7V.png"></img>
+<img src = "https://s2.ax1x.com/2019/09/29/u3Ph7V.png" width = 80%></img>
 10. Naming conventions
 - Variable names 
   - begin with a lettr 
@@ -29,7 +29,7 @@ e.g. Java - high level programming language -> machine code
 - Method (Same as for variables)
 11. Typecasting: to explicitly convert one data type to another
 12. Method
-<img src="https://s2.ax1x.com/2019/09/29/u3PqXR.png"></img>
+<img src="https://s2.ax1x.com/2019/09/29/u3PqXR.png" width = 80%></img>
 - return statement
 - calling method
 ##  Chapter 2: Object Oriented Programming (OOP)
@@ -38,7 +38,7 @@ e.g. Java - high level programming language -> machine code
 - methods
 2. Instantiation: new
 3. UML diagram
-<img src="https://s2.ax1x.com/2019/09/29/u3iC1H.png"></img>
+<img src="https://s2.ax1x.com/2019/09/29/u3iC1H.png" width = 80%></img>
 4. The advantage of object oriented software development are:
 - Modular development of code -> easy maintenance + modification
 - Reusability
