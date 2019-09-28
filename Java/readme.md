@@ -36,8 +36,8 @@ e.g. Java - high level programming language -> machine code
 1. Objects have
 - fields
 - methods
-2. Instantiation: new
-3. UML diagram
+2. Instantiation: keyword "new"
+3. UML diagram<br>
 <img src="https://s2.ax1x.com/2019/09/29/u3iC1H.png" width = 40%></img>
 4. The advantage of object oriented software development are:
 - Modular development of code -> easy maintenance + modification
