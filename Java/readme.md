@@ -13,7 +13,7 @@ e.g. Java - high level programming language -> machine code
 6. Declaration
 7. Initialization
 8. Overflow: Storing a value that is too large for a declared type of variable will cause an overflow error
-9. Primitive data type
+9. Primitive data type<br>
 <img src = "https://s2.ax1x.com/2019/09/29/u3P6pQ.png" width = 80%></img>
 - Note: String is not a primitive data type, but a class(which has methods)
 <img src = "https://s2.ax1x.com/2019/09/29/u3Ph7V.png" width = 80%></img>
