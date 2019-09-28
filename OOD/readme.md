@@ -1,6 +1,6 @@
 # Object Oriented Design
 ## Table of contents
-- OOD basics
+- [OOD basics](https://github.com/Cecilia-xu/CS_Notes/tree/master/OOD#ood-basics)
 ## OOD basics
 ### Design process
 1. discover classes
