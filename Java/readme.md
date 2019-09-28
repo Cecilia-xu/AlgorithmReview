@@ -1,5 +1,7 @@
 # Java_Basics
 ## Table of contents 
+- Chapter 1: Basic concepts
+- Chapter 2: OOP
 ## Chapter 1: Basic concepts
 1. Complier: a computer program to transform source code written in a programming language (the source language) into another computer language (the target language).
 e.g. Java - high level programming language -> machine code
