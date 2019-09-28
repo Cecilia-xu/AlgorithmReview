@@ -12,6 +12,7 @@ e.g. Java - high level programming language -> machine code
 7. Initialization
 8. Overflow: Storing a value that is too large for a declared type of variable will cause an overflow error
 9. Primitive data type
+<img src="https://s2.ax1x.com/2019/09/29/u3P6pQ.png"></img>
 
 ##  Chapter 2: Object Oriented Programming (OOP)
 The advantage of object oriented software development are:
