@@ -24,7 +24,12 @@ e.g. Java - high level programming language -> machine code
   - keyword final
   - names: all letters are capitalized
   - multi-word name: words are separated with an underscore
+- Method (Same as for variables)
 11. Typecasting: to explicitly convert one data type to another
+12. Method
+<img src="https://s2.ax1x.com/2019/09/29/u3PqXR.png"></img>
+- return statement
+- calling method
 ##  Chapter 2: Object Oriented Programming (OOP)
 The advantage of object oriented software development are:
 - Modular development of code -> easy maintenance + modification
