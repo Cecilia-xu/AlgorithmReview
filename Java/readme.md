@@ -31,15 +31,32 @@ e.g. Java - high level programming language -> machine code
 - return statement
 - calling method
 ##  Chapter 2: Object Oriented Programming (OOP)
-The advantage of object oriented software development are:
+1. Objects have
+- fields
+- methods
+2. Instantiation: new
+3. UML diagram
+<img src="https://s2.ax1x.com/2019/09/29/u3iC1H.png"></img>
+4. The advantage of object oriented software development are:
 - Modular development of code -> easy maintenance + modification
 - Reusability
 - reliability and flexibility
 - increase understanding of code
-## feature 1: encapsulation
-Encapsulation provides objects with the ability to hide their internal characteristics and behavior. In Java, there are three access modifiers: public, private and protected.
-## feature 2: polymorphism
+5. 4 features:
+### feature 1: encapsulation
+- Refers to data hiding. In Java, there are three access modifiers: public, private and protected.
+- Getter and setter methods used to access private fields
+### feature 2: polymorphism
 
-## feature 3: inheritance
-## feature 4: abstraction
+### feature 3: inheritance
+### feature 4: abstraction
+6. Constructors: the attributes are not initialized in the class, instead, they are unutualizaed in the constructors
+- can verify and correct the values for the attributes and avoid weird or meaningless states!
+- Overload: have more than 1 constructors, each of which has different parameters
+  - differentiated by the number, the type, and the order of the arguments passed. 
+7. reference: this
+
+
+
+
 
