@@ -1,7 +1,7 @@
 # Java_Basics
 ## Table of contents 
 - [Chapter 1: Basic concepts](https://github.com/Cecilia-xu/CS_Notes/blob/master/Java/readme.md#chapter-1-basic-concepts)
-- [Chapter 2: OOP]()
+- [Chapter 2: OOP](https://github.com/Cecilia-xu/CS_Notes/blob/master/Java/readme.md#chapter-2-object-oriented-programming-oop)
 ## Chapter 1: Basic concepts
 1. Complier: a computer program to transform source code written in a programming language (the source language) into another computer language (the target language).
 e.g. Java - high level programming language -> machine code
@@ -29,9 +29,7 @@ e.g. Java - high level programming language -> machine code
 - Method (Same as for variables)
 11. Typecasting: to explicitly convert one data type to another
 12. Method
-<img src="https://s2.ax1x.com/2019/09/29/u3PqXR.png" width = 50%></img>
-- return statement
-- calling method
+
 13. Errors
 - types
   - syntax error/compile error
@@ -45,14 +43,18 @@ e.g. Java - high level programming language -> machine code
 - fields
 - methods
 2. Instantiation: keyword "new"
-3. UML diagram<br>
+3. Method
+<img src="https://s2.ax1x.com/2019/09/29/u3PqXR.png" width = 50%></img>
+- return statement
+- calling method
+4. UML diagram<br>
 <img src="https://s2.ax1x.com/2019/09/29/u3iC1H.png" width = 40%></img>
-4. The advantage of object oriented software development are:
+5. The advantage of object oriented software development are:
 - Modular development of code -> easy maintenance + modification
 - Reusability
 - reliability and flexibility
 - increase understanding of code
-5. 4 features:
+6. 4 features:
 ### feature 1: encapsulation
 - Refers to data hiding. In Java, there are three access modifiers: public, private and protected.
 - Getter and setter methods used to access private fields
