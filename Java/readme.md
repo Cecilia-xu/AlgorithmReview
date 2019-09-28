@@ -29,7 +29,7 @@ e.g. Java - high level programming language -> machine code
 - Method (Same as for variables)
 11. Typecasting: to explicitly convert one data type to another
 12. Method
-<img src="https://s2.ax1x.com/2019/09/29/u3PqXR.png" width = 80%></img>
+<img src="https://s2.ax1x.com/2019/09/29/u3PqXR.png" width = 50%></img>
 - return statement
 - calling method
 ##  Chapter 2: Object Oriented Programming (OOP)
