@@ -1,5 +1,19 @@
 # Java_Basics
-##  Chapter 1: Object Oriented Programming (OOP)
+## Table of contents 
+## Chapter 1: Basic concepts
+1. Complier: a computer program to transform source code written in a programming language (the source language) into another computer language (the target language).
+e.g. Java - high level programming language -> machine code
+2. SDK (Software Development Kit) -> JDK
+3. JRE/JVM (Java Runtime Environment aka Java Virtual Machine): allows program to run on multiple operating systems
+4. IDE(Integrated Development Environment)
+5. variables: a space in memory(RAM)
+- RAM: Computer memory or random access memory (RAM) is your system’s short-term data storage; it stores the information your computer is actively using so that it can be accessed quickly. The more programs your system is running, the more memory you’ll need. 
+6. Declaration
+7. Initialization
+8. Overflow: Storing a value that is too large for a declared type of variable will cause an overflow error
+9. Primitive data type
+
+##  Chapter 2: Object Oriented Programming (OOP)
 The advantage of object oriented software development are:
 - Modular development of code -> easy maintenance + modification
 - Reusability
