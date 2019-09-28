@@ -32,6 +32,14 @@ e.g. Java - high level programming language -> machine code
 <img src="https://s2.ax1x.com/2019/09/29/u3PqXR.png" width = 50%></img>
 - return statement
 - calling method
+13. Errors
+- types
+  - syntax error/compile error
+  - runtime error
+  - logic error
+- debug
+  - hand trace
+  - debugging tools
 ##  Chapter 2: Object Oriented Programming (OOP)
 1. Objects have
 - fields
