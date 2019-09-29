@@ -70,6 +70,9 @@ e.g. Java - high level programming language -> machine code
 2. Instantiation: keyword "new"
 3. Method
 <img src="https://s2.ax1x.com/2019/09/29/u3PqXR.png" width = 50%></img>
+- types
+  - accessor methods: returns some information without changing the object
+  - mutator methods: modify the internal data of an object
 - return statement
 - calling method
 4. Constructor<br>
