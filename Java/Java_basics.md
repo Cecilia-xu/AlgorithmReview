@@ -70,6 +70,7 @@ e.g. Java - high level programming language -> machine code
 2. Instantiation: keyword "new"
 3. Method
 <img src="https://s2.ax1x.com/2019/09/29/u3PqXR.png" width = 50%></img>
+- Arguement
 - return statement
 - calling method
 4. UML diagram<br>
