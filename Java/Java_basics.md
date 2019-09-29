@@ -46,7 +46,7 @@ e.g. Java - high level programming language -> machine code
   - && and || : short-circuit evaluation (As soon as the truth value is determined, no further conditions are evaluated.)
   - !
 - Multiple alternatives (if ... else if ... else ...)v.s. Multiple conditions(if...if...if...)
-- Switch statement
+- Switch statement<br>
 <img src="https://s2.ax1x.com/2019/09/30/uG7PNn.png" width = 50%></img>
 14. Loops (for loop/while loop)
 - break statement: exit a while, for, or do loop
