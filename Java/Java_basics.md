@@ -5,6 +5,9 @@
 - [Chapter 3: Testing](https://github.com/Cecilia-xu/CS_Notes/blob/master/Java/Java_basics.md#chapter-3-testing)
 - Chapter 4: Exception handling
 - Chapter 5: Generics
+- Chapter 6: Garbage collection
+- Chapter 7: Concurrency
+- Chapter 8: Parallelism
 ## Chapter 1: Basic concepts
 1. Complier: a computer program to transform source code written in a programming language (the source language) into another computer language (the target language).
 e.g. Java - high level programming language -> machine code
