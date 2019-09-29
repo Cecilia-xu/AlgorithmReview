@@ -72,8 +72,8 @@ e.g. Java - high level programming language -> machine code
 <img src="https://s2.ax1x.com/2019/09/29/u3PqXR.png" width = 50%></img>
 - return statement
 - calling method
-4. Constructor
-<img src="https://s2.ax1x.com/2019/09/29/u8pk4g.png" width = 50%></img>
+4. Constructor<br>
+<img src="https://s2.ax1x.com/2019/09/29/u8pk4g.png" width = 80%></img>
 5. UML diagram<br>
 <img src="https://s2.ax1x.com/2019/09/29/u8pk4g.png" width = 40%></img>
 6. The advantage of object oriented software development are:
