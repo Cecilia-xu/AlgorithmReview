@@ -45,7 +45,9 @@ e.g. Java - high level programming language -> machine code
 - Combine conditions(Boolean operators)
   - && and || : short-circuit evaluation (As soon as the truth value is determined, no further conditions are evaluated.)
   - !
-13. Errors
+- Multiple alternatives v.s. Multiple conditions
+14. Loops (for loop/while loop)
+15. Errors
 - types
   - syntax error/compile error
   - runtime error
@@ -53,6 +55,14 @@ e.g. Java - high level programming language -> machine code
 - debug
   - hand trace
   - debugging tools
+16. Testing
+- Black box testing: a testing method that does not take the structure of the implementation into account. If a program works perfectly on all inputs, then it surely does its job.
+- White box testing: uses information about the structure of a program. Performing unit tests of each method is a part of white box testing.
+- Code coverage: a measure of how many parts of a program have been tested. That means that you need to look at every if/else branch to see that each of them is reached by some test case.
+- Boundary test cases are test cases that are at the boundary of acceptable inputs.
+- It is a good idea to design test cases before implementing a program.
+- Logging messages can be deactivated when testing is complete.
+
 ##  Chapter 2: Object Oriented Programming (OOP)
 1. Objects have
 - fields
