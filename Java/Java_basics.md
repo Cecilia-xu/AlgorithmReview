@@ -1,6 +1,6 @@
 # Java_Basics
 ## Table of contents 
-- [Chapter 1: Basic concepts](https://github.com/Cecilia-xu/CS_Notes/blob/master/Java/readme.md#chapter-1-basic-concepts)
+- [Chapter 1: Basic concepts](https://github.com/Cecilia-xu/CS_Notes/blob/master/Java/Java_basics.md#chapter-1-basic-concepts)
 - [Chapter 2: OOP](https://github.com/Cecilia-xu/CS_Notes/blob/master/Java/readme.md#chapter-2-object-oriented-programming-oop)
 ## Chapter 1: Basic concepts
 1. Complier: a computer program to transform source code written in a programming language (the source language) into another computer language (the target language).
