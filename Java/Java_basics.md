@@ -2,6 +2,7 @@
 ## Table of contents 
 - [Chapter 1: Basic concepts](https://github.com/Cecilia-xu/CS_Notes/blob/master/Java/Java_basics.md#chapter-1-basic-concepts)
 - [Chapter 2: OOP](https://github.com/Cecilia-xu/CS_Notes/blob/master/Java/Java_basics.md#chapter-2-object-oriented-programming-oop)
+- [Chapter 3: Testing]()
 ## Chapter 1: Basic concepts
 1. Complier: a computer program to transform source code written in a programming language (the source language) into another computer language (the target language).
 e.g. Java - high level programming language -> machine code
@@ -59,13 +60,6 @@ e.g. Java - high level programming language -> machine code
 - debug
   - hand trace
   - debugging tools
-16. Testing
-- Black box testing: a testing method that does not take the structure of the implementation into account. If a program works perfectly on all inputs, then it surely does its job.
-- White box testing: uses information about the structure of a program. Performing unit tests of each method is a part of white box testing.
-- Code coverage: a measure of how many parts of a program have been tested. That means that you need to look at every if/else branch to see that each of them is reached by some test case.
-- Boundary test cases are test cases that are at the boundary of acceptable inputs.
-- It is a good idea to design test cases before implementing a program.
-- Logging messages can be deactivated when testing is complete.
 
 ##  Chapter 2: Object Oriented Programming (OOP)
 1. Objects have
@@ -102,7 +96,13 @@ e.g. Java - high level programming language -> machine code
   - differentiated by the number, the type, and the order of the arguments passed. 
 7. reference: this
 
-
+## Chapter 3: Testing
+- Black box testing: a testing method that does not take the structure of the implementation into account. If a program works perfectly on all inputs, then it surely does its job.
+- White box testing: uses information about the structure of a program. Performing unit tests of each method is a part of white box testing.
+- Code coverage: a measure of how many parts of a program have been tested. That means that you need to look at every if/else branch to see that each of them is reached by some test case.
+- Boundary test cases are test cases that are at the boundary of acceptable inputs.
+- It is a good idea to design test cases before implementing a program.
+- Logging messages can be deactivated when testing is complete.
 
 
 
