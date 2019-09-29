@@ -35,7 +35,7 @@ e.g. Java - high level programming language -> machine code
   - ASCII(subset of Unicode): 128 / 128 (Extended ASCII)
   - Note: solving leetcode questions —— ask what is the character set they want? just letter: 26 * 2 = 52/ letter + number = 62/ All ASCII/+ Extended ASCII
   - Escape Sequence
-13. Conditions(if statement)
+13. Conditions(if/ switch)
 - Compare
   - Numbers/chars: relational operators (< <= > >= == !=)
   - String: equals/compareTo(compares strings in lexicographic order)
@@ -45,8 +45,12 @@ e.g. Java - high level programming language -> machine code
 - Combine conditions(Boolean operators)
   - && and || : short-circuit evaluation (As soon as the truth value is determined, no further conditions are evaluated.)
   - !
-- Multiple alternatives v.s. Multiple conditions
+- Multiple alternatives (if ... else if ... else ...)v.s. Multiple conditions(if...if...if...)
+- Switch statement
+<img src="https://s2.ax1x.com/2019/09/30/uG7PNn.png" width = 50%></img>
 14. Loops (for loop/while loop)
+- break statement: exit a while, for, or do loop
+-
 15. Errors
 - types
   - syntax error/compile error
