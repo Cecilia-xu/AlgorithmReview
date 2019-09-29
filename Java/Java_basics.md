@@ -49,8 +49,8 @@ e.g. Java - high level programming language -> machine code
 - Switch statement<br>
 <img src="https://s2.ax1x.com/2019/09/30/uG7PNn.png" width = 50%></img>
 14. Loops (for loop/while loop)
-- break statement: exit a while, for, or do loop
--
+- break statement: exit a while, for, or do loop/ switch
+- continue statement(few programmer use): jumps to the end of the current iteration of the loop
 15. Errors
 - types
   - syntax error/compile error
