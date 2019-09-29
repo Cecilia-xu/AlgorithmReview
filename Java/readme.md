@@ -41,6 +41,7 @@ e.g. Java - high level programming language -> machine code
   - String: equals/compareTo(compares strings in lexicographic order)
   - Objects: ==(whether two object **references** are identical)/ equals(whether two object **contents** are identical) <br>
   Note: works correctly only if the implementors of the class have supplied it
+  - Null: == null (Note: null - no reference v.s. "" - empty string)
 - Combine conditions(Boolean operators)
   - && and || : short-circuit evaluation (As soon as the truth value is determined, no further conditions are evaluated.)
   - !
