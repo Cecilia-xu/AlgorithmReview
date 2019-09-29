@@ -33,9 +33,17 @@ e.g. Java - high level programming language -> machine code
 - encoding
   - Unicode (Java): 16 bits
   - ASCII(subset of Unicode): 128 / 128 (Extended ASCII)
-  - Note: solving leetcode questions —— ask what is the character set they want? just letter: 26 * 2 = 52/ letter + number = 62/ 
-13. String
-
+  - Note: solving leetcode questions —— ask what is the character set they want? just letter: 26 * 2 = 52/ letter + number = 62/ All ASCII/+ Extended ASCII
+  - Escape Sequence
+13. Conditions(if statement)
+- Compare
+  - Numbers/chars: relational operators (< <= > >= == !=)
+  - String: equals/compareTo(compares strings in lexicographic order)
+  - Objects: ==(whether two object **references** are identical)/ equals(whether two object **contents** are identical) <br>
+  Note: works correctly only if the implementors of the class have supplied it
+- Combine conditions(Boolean operators)
+  - && and || : short-circuit evaluation (As soon as the truth value is determined, no further conditions are evaluated.)
+  - !
 13. Errors
 - types
   - syntax error/compile error
