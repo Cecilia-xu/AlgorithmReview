@@ -15,7 +15,7 @@ e.g. Java - high level programming language -> machine code
 8. Overflow: Storing a value that is too large for a declared type of variable will cause an overflow error
 9. Primitive data type<br>
 <img src = "https://s2.ax1x.com/2019/09/29/u3P6pQ.png" width = 80%></img>
-- Note: String is not a primitive data type, but a class(which has methods)
+- Note: String is not a primitive data type, but a reference type/class(which has methods)
 <img src = "https://s2.ax1x.com/2019/09/29/u3Ph7V.png" width = 80%></img>
 10. Naming conventions
 - Variable names 
@@ -27,8 +27,14 @@ e.g. Java - high level programming language -> machine code
   - names: all letters are capitalized
   - multi-word name: words are separated with an underscore
 - Method (Same as for variables)
-11. Typecasting: to explicitly convert one data type to another
-12. Method
+11. Typecasting: to explicitly convert one data type to another e.g.(int)/(double)
+12. Char
+- MUST in Single quotation marks
+- encoding
+  - Unicode (Java): 16 bits
+  - ASCII(subset of Unicode): 128 / 128 (Extended ASCII)
+  - Note: solving leetcode questions —— ask what is the character set they want? just letter: 26 * 2 = 52/ letter + number = 62/ 
+13. String
 
 13. Errors
 - types
