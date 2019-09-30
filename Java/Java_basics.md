@@ -102,6 +102,12 @@ e.g. Java - high level programming language -> machine code
 7. reference: this
 
 ## Chapter 3: Testing
+1. Implement a testing program
+- Provide a tester class.
+- Supply a main method.
+- Inside the main method, construct one or more objects. 4. Apply methods to the objects.
+- Display the results of the method calls.
+- Display the values that you expect to get.
 - Black box testing: a testing method that does not take the structure of the implementation into account. If a program works perfectly on all inputs, then it surely does its job.
 - White box testing: uses information about the structure of a program. Performing unit tests of each method is a part of white box testing.
 - Code coverage: a measure of how many parts of a program have been tested. That means that you need to look at every if/else branch to see that each of them is reached by some test case.
