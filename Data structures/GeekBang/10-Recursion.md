@@ -11,5 +11,5 @@ Understanding recusion: Assuming the subquestion is solved, how to solve the ori
 ## Pros & Cons
 1. Pros: shorter, simpler and easier to debug
 2. Cons:
-- use a lot of stack space -> might cause stack overflow error -> solve: limit the depth of recursion (not useful in the real world)
-- very slow: calculation is done even more times -> use hashmap to store the value that we calculated before
+- use a lot of stack space -> might cause stack overflow error -> solve: limit the depth of recursion (not useful in the real world)/ use iteration
+- very slow: calculation is done even more times -> solve: use hashmap to store the value that we calculated before
