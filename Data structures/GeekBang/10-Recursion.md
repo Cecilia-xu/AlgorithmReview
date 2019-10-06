@@ -12,6 +12,18 @@ Understanding recusion: Assuming the subquestion is solved, how to solve the ori
 1. Pros: shorter, simpler and easier to debug
 2. Cons:
 - use a lot of stack space -> might cause stack overflow error -> solve: limit the depth of recursion (not useful in the real world)/ use iteration
+```
+// 全局变量，表示递归的深度。(pseudocode)
+int depth = 0;
+
+int f(int n) {
+  ++depth；
+  if (depth > 1000) throw exception;
+  
+  if (n == 1) return 1;
+  return f(n-1) + 1;
+}
+```
 - calculation is done even more times -> slow -> solve: use hashmap to store the value that we calculated before
 - the overhead of procedure calls -> slow
 - high space complexity 
