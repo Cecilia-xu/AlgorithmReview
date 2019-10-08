@@ -28,3 +28,12 @@ int f(int n) {
 ![too many calculations](https://static001.geekbang.org/resource/image/e7/bf/e7e778994e90265344f6ac9da39e01bf.jpg)
 - the overhead of procedure calls -> slow
 - high space complexity: extra space to store the result after each call of the functions
+## Coding template
+```
+// terminating scenario
+if (terminating condition) {
+  return XX;
+}
+// coding from the recursive formula
+return XX;
+```
