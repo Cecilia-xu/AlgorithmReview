@@ -38,7 +38,7 @@ e.g. Java - high level programming language -> machine code
 - MUST in Single quotation marks
 - encoding
   - Unicode (Java): 16 bits
-  - ASCII(subset of Unicode): 128 / 128 (Extended ASCII)
+  - ASCII(subset of Unicode): 128 / +128 (Extended ASCII)/ 95 (printable ASCII)
   - Note: solving leetcode questions —— ask what is the character set they want? just letter: 26 * 2 = 52/ letter + number = 62/ All ASCII/+ Extended ASCII
   - Escape Sequence
 13. Conditions(if/ switch)
