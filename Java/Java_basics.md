@@ -57,15 +57,20 @@ e.g. Java - high level programming language -> machine code
 14. Loops (for loop/while loop)
 - break statement: exit a while, for, or do loop/ switch
 - continue statement(few programmer use): jumps to the end of the current iteration of the loop
-15. Errors
-- types
-  - syntax error/compile error
-  - runtime error
-  - logic error
-- debug
-  - hand trace
-  - debugging tools
-
+15. semantics(language specs defines semantics) v.s. implementations(defines actual behavior of a progtames)<br>
+Example:
+- Senmantically:
+```
+int i = 0;
+i ++;
+````
+- Implementation:
+```
+Set i to be 0
+Read i, i = 0
+Perform 0 + 1 = 1
+Write new value 1 back to i 's memory location
+```
 ##  Chapter 2: Object Oriented Programming (OOP)
 1. Objects have
 - fields
@@ -99,7 +104,7 @@ e.g. Java - high level programming language -> machine code
 - can verify and correct the values for the attributes and avoid weird or meaningless states!
 - Overload: have more than 1 constructors, each of which has different parameters
   - differentiated by the number, the type, and the order of the arguments passed. 
-7. reference: this
+7. reference: this（key word)
 
 ## Chapter 3: Testing
 1. Implement a testing program
