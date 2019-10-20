@@ -73,9 +73,9 @@ Write new value 1 back to i 's memory location
 ```
 ##  Chapter 2: Object Oriented Programming (OOP)
 1. Objects have
-- fields
-- methods
-2. Instantiation: keyword "new"
+- fields (What things it maintains)
+- methods (What it can do)
+2. Instantiation: keyword "new" --> an object/an instance
 3. Method
 <img src="https://s2.ax1x.com/2019/09/29/u3PqXR.png" width = 50%></img>
 - types
@@ -97,14 +97,14 @@ Write new value 1 back to i 's memory location
 - Refers to data hiding. In Java, there are three access modifiers: public, private and protected.
 - Getter and setter methods used to access private fields
 ### feature 2: polymorphism
-
 ### feature 3: inheritance
 ### feature 4: abstraction
 6. Constructors: the attributes are not initialized in the class, instead, they are unutualizaed in the constructors
 - can verify and correct the values for the attributes and avoid weird or meaningless states!
 - Overload: have more than 1 constructors, each of which has different parameters
   - differentiated by the number, the type, and the order of the arguments passed. 
-7. reference: this（key word)
+7. reference: this（key word)/ dereferencing
+8. Objects in real life: a list, a queue, an array, a program, a linked list node, etc.
 
 ## Chapter 3: Testing
 1. Implement a testing program
